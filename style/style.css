@@ -36,9 +36,6 @@ footer {
   max-width: 20vw;
   text-align: center;
 }
-.character-cards {
-  display: flex;
-}
 .flip-card {
   width: 300px;
   height: 200px;
