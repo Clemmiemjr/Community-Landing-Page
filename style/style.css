@@ -1,5 +1,5 @@
 body {
-  background: #148c96;
+  background: #253594;
   font-family: "Graduate", serif;
   padding-left: 2%;
   padding-right: 2%;
@@ -20,7 +20,7 @@ footer {
   text-align: center;
 }
 .body-app {
-  background-color: bisque;
+  background-color: #afcef4;
   padding: 30px 10px 30px 10px;
 }
 .introduction {
@@ -34,7 +34,7 @@ footer {
 .intro-text {
   padding: 10px 0 10px 0;
   max-width: 20vw;
-  text-align: center;
+  text-align: left;
 }
 .flip-card {
   width: 300px;
@@ -43,6 +43,7 @@ footer {
   border: 1px solid #f1f1f1;
   perspective: 1000px;
   position: relative;
+  padding: 10px 0 10px 0;
 }
 .flip-card-inner {
   width: 100%;
