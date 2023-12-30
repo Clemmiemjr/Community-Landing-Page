@@ -1,17 +1,18 @@
 body {
   background: #253594;
   font-family: "Graduate", serif;
-  padding-left: 2%;
-  padding-right: 2%;
+  padding: 2% 2% 2% 2%;
 }
 
 h1 {
   color: #1e1f78;
   text-align: center;
+  font-weight: bold;
 }
 h2 {
   color: white;
   text-align: center;
+  padding-bottom: 10px;
 }
 
 footer {
