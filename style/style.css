@@ -20,6 +20,7 @@ h2 {
 
 section {
   padding-inline: 15vw;
+  padding-bottom: 20px;
 }
 
 footer {
@@ -31,9 +32,10 @@ footer {
 .learn-more {
   text-align: center;
   display: block;
-  margin: 0 auto;
   background-color: #253594;
   color: #ffffff;
+  margin: 0 25px;
+  border-radius: 10px;
 }
 
 .introduction {
