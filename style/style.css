@@ -96,3 +96,6 @@ footer {
 .card-text {
   padding: 2px;
 }
+.card-title {
+  text-align: center;
+}
